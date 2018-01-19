@@ -1,0 +1,17 @@
+{
+  "CodeDependencies": [], 
+  "OutputFiles": [], 
+  "Version": "0.1", 
+  "Command": "empty", 
+  "Stderr": null, 
+  "InputFiles": [], 
+  "Type": "DVC-State", 
+  "Cwd": ".", 
+  "Shell": false, 
+  "Stdout": null, 
+  "Argv": [
+    "/usr/local/bin/dvc init", 
+    "init"
+  ], 
+  "CreatedAt": "2018-01-19 20:51:56 +1100"
+}
