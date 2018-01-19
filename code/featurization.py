@@ -3,6 +3,7 @@ import numpy as np
 import scipy.sparse as sparse
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
+
 try: import cPickle as pickle   # python2
 except: import pickle           # python3
 
